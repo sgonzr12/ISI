@@ -1,0 +1,2 @@
+los valores obtenidos de el analisis roc apenas varian al utilizar los datos normalizados o los originales
+esto es devido a que el dataset utilizado esta equilibrado de tal foma que no hay mucha variacion entre los datos originales y los normalizados
