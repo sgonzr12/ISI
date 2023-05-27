@@ -1,0 +1,1 @@
+las coordenadas del vector son: x = 0.0, y = 35.0, z = 49.0
